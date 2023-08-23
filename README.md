@@ -17,4 +17,5 @@ The dataset provided shows the land area and forest area of each country from 19
 # QUESTIONS AND ANALYSIS
 
 **TOTAL NUMBER OF COUNTRIES INVOLVED IN DEFORESTATION**
-
+![Screenshot (58)](https://github.com/Yomeh/Global_Deforestation/assets/140501792/761a45b2-7f2a-43d7-b631-b39454804e97)
+Across the globe, we have a total of *218* countries involved in deforestation. The dataset contained multiple instances of each country, so I used the **DISTINCT** function to count only one occurrence of each country from the land area table.
