@@ -21,3 +21,7 @@ The dataset provided shows the land area and forest area of each country from 19
 Across the globe, we have a total of *218* countries involved in deforestation. The dataset contained multiple instances of each country, so I used the **DISTINCT** function to count only one occurrence of each country from the land area table.
 
 **INCOME GROUP OF COUNTRIES WITH TOTAL AREA RANGING FROM 75,000 TO 150,000**
+![Screenshot (59)](https://github.com/Yomeh/Global_Deforestation/assets/140501792/9b3bb155-736e-4462-ad56-6e0e017a7aeb)
+There is a total of 25 countries with a total area ranging from 75,000 to 150,000, we want to examine if the income group of countries with a total area ranging from 75,000 to 150,000 would be a factor as to why they would be involved in deforestation. From our observation, of all the countries with total area ranging from 75,000 to 150,000, Zimbabwe was the country with the largest land area falling under the Low-Income group, and from further observations, we can see that countries from Sub-Saharan Africa within this total area range fall within the Low-Income and Lower-Middle-Income group. This insight tells us that within the Sub-Saharan we have more poor countries that would clear trees to make way for urbanization or production of agricultural produce to improve their country's economies.
+
+**COUNTRIES WITH A FOREST AREA GREATER THAN THE AVERAGE FOREST AREA OF ALL COUNTRIES IN THE HIGH-INCOME GROUP**
