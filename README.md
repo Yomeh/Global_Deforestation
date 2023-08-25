@@ -25,3 +25,7 @@ Across the globe, we have a total of *218* countries involved in deforestation. 
 There is a total of 25 countries with a total area ranging from 75,000 to 150,000, we want to examine if the income group of countries with a total area ranging from 75,000 to 150,000 would be a factor as to why they would be involved in deforestation. From our observation, of all the countries with total area ranging from 75,000 to 150,000, Zimbabwe was the country with the largest land area falling under the Low-Income group, and from further observations, we can see that countries from Sub-Saharan Africa within this total area range fall within the Low-Income and Lower-Middle-Income group. This insight tells us that within the Sub-Saharan we have more poor countries that would clear trees to make way for urbanization or production of agricultural produce to improve their country's economies.
 
 **COUNTRIES WITH A FOREST AREA GREATER THAN THE AVERAGE FOREST AREA OF ALL COUNTRIES IN THE HIGH-INCOME GROUP**
+
+31 countries have a forest area greater than that of the average forest area of all countries in the high-income group. Out of these 31 countries, we have 5 countries in the Low-Income group, 9 in the Lower-Middle Income group, 9 in the Upper-Middle Income group, and 7 in the High Income group. Further observation shows that the Low-Income group of these countries is populated by countries in the Sub-Saharan region of the country.
+
+**AVERAGE TOTAL AREA(SQM) OF COUNTRIES IN THE UPPER MIDDLE-INCOME GROUP AND COMPARING THEM WITH THE OTHER INCOME GROUP**
